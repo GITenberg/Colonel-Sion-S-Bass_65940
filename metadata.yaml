@@ -1,0 +1,30 @@
+_repo: Colonel-Sion-S-Bass_65940
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Public Library of Fort Wayne and Allen County
+    aliases:
+    - Fort Wayne Public Library
+    - Fort Wayne (Ind.). Public Library of Fort Wayne and Allen County
+    - Ft. Wayne Public Library
+    - Allen County (Ind.). Public Library of Fort Wayne and Allen County
+    - Emerine J. Hamilton Reading Room
+    gutenberg_agent_id: '53025'
+    url: http://www.gutenberg.org/2009/agents/53025
+    wikipedia: https://en.wikipedia.org/wiki/Allen_County_Public_Library
+description: ''
+gutenberg_issued: '2021-07-28'
+identifiers:
+  gutenberg: '65940'
+  lccn: '55058676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bass, Sion St. Clair, 1827-1862'
+- !lcc 'E456'
+- !lcc 'CT'
+- GITenberg
+title: Colonel Sion S. Bass, 1827-1862
+url: http://www.gutenberg.org/ebooks/65940
